@@ -1,3 +1,10 @@
+# Web Mining and Applied NLP (44-620)
+
+## Matplotlib and pyplot
+
+### Student Name: Wade Bryson
+### GitHub: https://github.com/WadeBryson
+
 # Matplotlib and pyplot
 
 Complete the tasks in the Python Notebook in this repository.
